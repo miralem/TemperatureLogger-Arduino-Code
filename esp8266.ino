@@ -6,8 +6,8 @@
 #define ONE_WIRE_BUS 2
 
 //AP definitions
-#define AP_SSID "brzivoz"
-#define AP_PASSWORD "pitajArmina"
+#define AP_SSID "YOUR SSID"
+#define AP_PASSWORD "YOUR PASSWORD"
 
 #define EIOT_IP_ADDRESS  "188.226.133.251"
 #define EIOT_PORT        8081
