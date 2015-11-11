@@ -1,4 +1,4 @@
-#include <DallasTemperature.h>
+#include <DallasTemperature.h> //http://milesburton.com/Dallas_Temperature_Control_Library
 #include <OneWire.h>
 #include <ESP8266WiFi.h>
 
