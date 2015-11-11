@@ -69,7 +69,7 @@ void sendTemperature(String queryString)
     wifiConnect(); 
   }
  
-  String url = "/?";
+  String url = "/api?";
   url += queryString;
   
   Serial.print("POST data to URL: ");
